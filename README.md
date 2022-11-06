@@ -55,7 +55,7 @@
 
 - [ ] 40장 : 이벤트
 - [ ] 41장 : 타이버
-- [ X ] 42장 : [비동기 프로그래밍](https://github.com/YooJinRa/book-javascript-deep-dive/blob/main/summary/42.md)
+- [x] 42장 : [비동기 프로그래밍](https://github.com/YooJinRa/book-javascript-deep-dive/blob/main/summary/42.md)
 - [ ] 43장 : Ajax
 - [ ] 44장 : REST API
 - [ ] 45장 : 프로미스
