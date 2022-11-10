@@ -29,7 +29,7 @@
 ---
 
 - [ ] 21장 : 빌트인 객체
-- [ ] 22장 : this
+- [X] 22장 : [this](https://github.com/YooJinRa/book-javascript-deep-dive/blob/main/summary/22.js)
 - [ ] 23장 : 실행 컨텍스트
 - [ ] 24장 : 클로저
 - [ ] 25장 : 클래스
