@@ -16,7 +16,7 @@
 ---
 
 - [ ] 11장 : 원시 값과 객체의 비교
-- [ ] 12장 : 함수
+- [ ] 12장 : [함수](https://github.com/YooJinRa/book-javascript-deep-dive/blob/main/summary/12.md)
 - [ ] 13장 : 스코프
 - [ ] 14장 : 전역 변수의 문제점
 - [ ] 15장 : let, const 키워드와 블록 레벨 스코프
