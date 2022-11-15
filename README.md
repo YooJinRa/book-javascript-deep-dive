@@ -45,7 +45,7 @@
 - [ ] 32장 : String
 - [ ] 33장 : 7번째 데이터 타입 Symbol
 - [ ] 34장 : 이터러블
-- [ ] 35장 : 스프레드 문법
+- [X] 35장 : [스프레드 문법](https://github.com/YooJinRa/book-javascript-deep-dive/blob/main/summary/35.js)
 - [ ] 36장 : 디스트럭처링 할당
 - [ ] 37장 : Set과 Map
 - [ ] 38장 : 브라우저 렌더링 과정
