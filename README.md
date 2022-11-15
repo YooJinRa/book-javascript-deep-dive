@@ -48,13 +48,13 @@
 - [X] 35장 : [스프레드 문법](https://github.com/YooJinRa/book-javascript-deep-dive/blob/main/summary/35.js)
 - [X] 36장 : [디스트럭처링 할당](https://github.com/YooJinRa/book-javascript-deep-dive/blob/main/summary/36.js)
 - [ ] 37장 : Set과 Map
-- [ ] 38장 : 브라우저 렌더링 과정
+- [X] 38장 : [브라우저 렌더링 과정](https://github.com/YooJinRa/book-javascript-deep-dive/blob/main/summary/38.js)
 - [ ] 39장 : DOM
 
 ---
 
 - [ ] 40장 : 이벤트
-- [ ] 41장 : 타이버
+- [ ] 41장 : 타이머
 - [x] 42장 : [비동기 프로그래밍](https://github.com/YooJinRa/book-javascript-deep-dive/blob/main/summary/42.md)
 - [ ] 43장 : Ajax
 - [ ] 44장 : REST API
