@@ -42,7 +42,7 @@
 ---
 
 - [X] 31장 : [RegExp](https://github.com/YooJinRa/book-javascript-deep-dive/blob/main/summary/31.js)
-- [ ] 32장 : String
+- [X] 32장 : [String](https://github.com/YooJinRa/book-javascript-deep-dive/blob/main/summary/32.js)
 - [ ] 33장 : 7번째 데이터 타입 Symbol
 - [ ] 34장 : 이터러블
 - [X] 35장 : [스프레드 문법](https://github.com/YooJinRa/book-javascript-deep-dive/blob/main/summary/35.js)
